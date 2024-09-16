@@ -1,7 +1,5 @@
 # Olá, eu sou Hicham Tayfour!
 
-Sou um estudante de economia apaixonado por matemática e programação, explorando Python, R e LaTeX em projetos acadêmicos.
-
 ## 📊 Minhas Estatísticas no GitHub:
 
 ![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=tokyonight&count_private=true)
