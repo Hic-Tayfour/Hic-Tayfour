@@ -5,13 +5,9 @@ Sou um estudante de Economia com interesse em matemática, programação, Machin
 ## 📊 Minhas Estatísticas no GitHub:
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=dark&title_color=ffd700&icon_color=87ceeb&text_color=ffffff&bg_color=001f3f" alt="GitHub Stats" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=dark&title_color=ffd700&text_color=ffffff&bg_color=001f3f" alt="Most Used Languages" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=dark&title_color=ffd700&icon_color=87ceeb&text_color=ffffff&bg_color=001f3f" alt="GitHub Stats" style="width: 45%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=dark&title_color=ffd700&text_color=ffffff&bg_color=001f3f" alt="Most Used Languages" style="width: 45%; height: 200px;">
 </div>
-
-![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=dark&title_color=ffd700&icon_color=87ceeb&text_color=ffffff&bg_color=001f3f)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=dark&title_color=ffd700&text_color=ffffff&bg_color=001f3f)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧮 Tecnologias Utilizadas:
 
