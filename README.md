@@ -4,26 +4,26 @@ Sou um estudante de economia apaixonado por matemática e programação, explora
 
 ## 📊 Minhas Estatísticas no GitHub:
 
-![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=tokyonight&count_private=true)
+![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=dark&title_color=ffd700&icon_color=87ceeb&text_color=ffffff&bg_color=001f3f)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=dark&title_color=ffd700&text_color=ffffff&bg_color=001f3f)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧮 Tecnologias Utilizadas:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-87CEEB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-001f3f?style=flat-square&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ## 🌟 Gráfico de Atividades no GitHub:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hic-Tayfour&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Hicham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hic-Tayfour&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 Cartões de Resumo do Perfil:
 
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🔗 Meus Contatos:
 
