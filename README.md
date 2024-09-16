@@ -1,6 +1,6 @@
 # Olá, eu sou Hicham Tayfour!
 
-Sou um estudante de economia apaixonado por matemática e programação, explorando Python, R e LaTeX em projetos acadêmicos.
+Sou um estudante de Economia com interesse em matemática, programação, Machine Learning e Data Science. Utilizo Python, R e LaTeX em projetos acadêmicos, integrando análise de dados, modelagem estatística e automação de relatórios.
 
 ## 📊 Minhas Estatísticas no GitHub:
 
