@@ -8,6 +8,11 @@ Sou um estudante de economia apaixonado por matemática e programação, explora
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+
 ## 🔗 Meus Contatos:
 
 - [LinkedIn](https://www.linkedin.com/in/hicham-tayfour-71275b228/)
