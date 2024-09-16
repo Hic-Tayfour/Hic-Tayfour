@@ -4,9 +4,9 @@ Sou um estudante de economia apaixonado por matemática e programação, explora
 
 ## 📊 Minhas Estatísticas no GitHub:
 
-![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=radical&count_private=true)
+![Hicham Tayfour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Meus Contatos:
 
