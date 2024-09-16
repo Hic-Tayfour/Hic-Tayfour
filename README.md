@@ -18,13 +18,6 @@ Sou um estudante de Economia com interesse em matemática, programação, Machin
 
 [![Hicham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hic-Tayfour&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📊 Cartões de Resumo do Perfil:
-
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/master/profile-summary-card-output/highcontrast/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## 🔗 Meus Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-tayfour-71275b228/)
