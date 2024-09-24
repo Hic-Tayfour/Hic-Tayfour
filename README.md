@@ -41,21 +41,28 @@ Aqui está um gráfico que descreve a estrutura dos meus repositórios e trabalh
 
 ```mermaid
 graph LR
-    HT[GitHub do Hicham] --> R[Repositório de R]
-    HT[GitHub do Hicham] --> Py[Repositório de Python]
-    HT[GitHub do Hicham] --> Tex[Repositório de LaTeX]
-    HT[GitHub do Hicham] --> LB[Repositório de LittleBox]
-    HT[GitHub do Hicham] --> MK[Repositório de MyKaggle]
+    %% Definindo estilos personalizados para as caixas com base no tema "algolia"
+    classDef reposit color:#fff, fill:#5468FF, stroke:#ffffff, stroke-width:2px;
+    classDef subreposit fill:#004080, stroke:#5468FF, stroke-width:2px, color:#ffffff;
+    classDef aps fill:#282828, stroke:#666, stroke-width:1px, color:#ffffff, font-style:italic;
+    
+    %% Definindo o GitHub como ponto de entrada
+    HT[GitHub do Hicham] -->|Principal| R[Repositório de R]
+    HT --> Py[Repositório de Python]
+    HT --> Tex[Repositório de LaTeX]
+    HT --> LB[Repositório de LittleBox]
+    HT --> MK[Repositório de MyKaggle]
 
+    %% Grupo de Repositórios de R
     R --> RCW[College Works]
     RCW --> ESTATI[Estatística I]
     ESTATI --> APS1_ESTATI[APS 1 - Estatística I]
     ESTATI --> APS2_ESTATI[APS 2 - Estatística I]
-
+    
     RCW --> ESTATII[Estatística II]
     ESTATII --> APS1_ESTATII[APS 1 - Estatística II]
     ESTATII --> APS2_ESTATII[APS 2 - Estatística II]
-
+    
     RCW --> ECON[Econometria]
     ECON --> APS1_ECON[APS 1 - Econometria]
     ECON --> APS2_ECON[APS 2 - Econometria]
@@ -72,6 +79,7 @@ graph LR
     RCT --> ZR[Zerando o Livro de R em R]
     RCT --> R4DS[R for Data Science]
 
+    %% Repositórios de Python
     Py --> PyCW[College Works]
     PyCW --> SI[Sistemas de Informação]
     SI --> APS1_SI[APS 1 - SI]
@@ -94,6 +102,7 @@ graph LR
     MpTD --> DS[Dinâmica de Sistemas]
     MpTD --> ES[Simulação de Estoque]
 
+    %% Repositórios de LaTeX
     Tex --> T3P[3º Período]
     T3P --> FINI_TEX[Finanças I]
     T3P --> ESTATII_TEX[Estatística II]
@@ -113,3 +122,11 @@ graph LR
     T5P --> ECONAVAN_TEX[Econometria Avançada]
     T5P --> FINIII_TEX[Finanças III]
     T5P --> HIST_ECO_BR[História da Economia Brasileira I]
+
+    %% Aplicando classes de estilo aos nós principais
+    class HT reposit;
+    class R,Py,Tex,LB,MK reposit;
+    class RCW,RCT,PyCW,PyCT subreposit;
+    class APS1_ESTATI,APS2_ESTATI,APS1_ESTATII,APS2_ESTATII,APS1_ECON,APS2_ECON,APS1_ECONAVAN,APS1_MICROIV,APS2_MICROIV,APS3_MICROIV aps;
+    class APS1_SI,APS1_FINI,APS2_FINI,APS1_MpD,APS1_FINII,APS1_FINIII aps;
+    class ZR,R4DS,DS,ES,FINI_TEX,ESTATII_TEX,ECON_TEX,HIST_ECO_PENS,MACRO_INT,FINII_TEX,MICROIII,PYTHON_DS,MODEL_PRED,MACRO_CURTO,MICROIV_TEX,ECONAVAN_TEX,FINIII_TEX,HIST_ECO_BR aps;
