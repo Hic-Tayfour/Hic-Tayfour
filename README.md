@@ -46,7 +46,7 @@ graph LR
     classDef reposit color:#fff, fill:#5468FF, stroke:#ffffff, stroke-width:2px;
     
     %% Definindo o GitHub como ponto de entrada
-    HT[GitHub do Hicham] -->|Principal| R[Repositório de R]
+    HT[GitHub do Hicham] -->R[Repositório de R]
     HT --> Py[Repositório de Python]
     HT --> Tex[Repositório de LaTeX]
     HT --> LB[Repositório de LittleBox]
