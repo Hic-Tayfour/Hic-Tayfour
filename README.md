@@ -66,8 +66,7 @@ graph LR
     classDef aps fill:#282828, stroke:#666, stroke-width:1px, color:#ffffff, font-style:italic;
 
     %% Grupo de Repositórios de R
-    R[Repositório de R]
-    R --> RCW[College Works]
+    R[Repositório de R] --> RCW[College Works]
     RCW --> ESTATI[Estatística I]
     ESTATI --> APS1_ESTATI[APS 1 - Estatística I]
     ESTATI --> APS2_ESTATI[APS 2 - Estatística I]
@@ -96,29 +95,6 @@ graph LR
     class R reposit;
     class RCW,RCT subreposit;
     class APS1_ESTATI,APS2_ESTATI,APS1_ESTATII,APS2_ESTATII,APS1_ECON,APS2_ECON,APS1_ECONAVAN,APS1_MICROIV,APS2_MICROIV,APS3_MICROIV aps;
-
-    %% Adicionando links externos
-    click R "https://github.com/Hic-Tayfour/R" "Acessar Repositório Principal"
-    click RCW "https://github.com/Hic-Tayfour/R/tree/main/College%20Works" "Acessar College Works"
-    click ESTATI "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-I" "Acessar Estatística I"
-    click APS1_ESTATI "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-I/APS1" "Acessar APS 1 - Estatística I"
-    click APS2_ESTATI "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-I/APS2" "Acessar APS 2 - Estatística I"
-    click ESTATII "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-II" "Acessar Estatística II"
-    click APS1_ESTATII "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-II/APS1" "Acessar APS 1 - Estatística II"
-    click APS2_ESTATII "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Estatistica-II/APS2" "Acessar APS 2 - Estatística II"
-    click ECON "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Econometria" "Acessar Econometria"
-    click APS1_ECON "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Econometria/APS1" "Acessar APS 1 - Econometria"
-    click APS2_ECON "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Econometria/APS2" "Acessar APS 2 - Econometria"
-    click ECONAVAN "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Econometria-Avancada" "Acessar Econometria Avançada"
-    click APS1_ECONAVAN "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Econometria-Avancada/APS1" "Acessar APS 1 - Econometria Avançada"
-    click MICROIV "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Microeconomia-IV" "Acessar Microeconomia IV"
-    click APS1_MICROIV "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Microeconomia-IV/APS1" "Acessar APS 1 - Microeconomia IV"
-    click APS2_MICROIV "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Microeconomia-IV/APS2" "Acessar APS 2 - Microeconomia IV"
-    click APS3_MICROIV "https://github.com/Hic-Tayfour/R/tree/main/College%20Works/Microeconomia-IV/APS3" "Acessar APS 3 - Microeconomia IV"
-    click RCT "https://github.com/Hic-Tayfour/R/tree/main/College%20Studies" "Acessar College Studies"
-    click ZR "https://github.com/Hic-Tayfour/R/tree/main/College%20Studies/Zerando-o-Livro-de-R" "Acessar Zerando o Livro de R em R"
-    click R4DS "https://github.com/Hic-Tayfour/R/tree/main/College%20Studies/R-for-Data-Science" "Acessar R for Data Science"
-
 ```
 
 ### 3. Diagrama de Repositórios de Python
