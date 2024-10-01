@@ -41,7 +41,7 @@ Aqui está um gráfico que descreve a estrutura dos meus repositórios e trabalh
 
 ### 1. Diagrama Principal - Repositórios
 ```mermaid
-graph LR
+graph TD
     %% Definindo estilos personalizados para as caixas com base no tema "algolia"
     classDef reposit color:#fff, fill:#5468FF, stroke:#ffffff, stroke-width:2px;
     
