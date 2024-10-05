@@ -19,6 +19,8 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-%2300599C.svg?style=for-the-badge&logo=quarto&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Ferramentas Adicionais:
 
