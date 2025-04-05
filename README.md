@@ -1,7 +1,7 @@
 # Olá, eu sou Hicham Tayfour! 👋
 
 Estudante de **Economia** apaixonado por dados, modelagem estatística e soluções quantitativas aplicadas.  
-Tenho interesse em **Machine Learning**, **Data Science**, **Política Monetária** e **Eficiência de Mercados**.  
+Tenho interesse em **Machine Learning**, **Data Science**, **Macroeconomia** e **Economia da Saúde**.  
 Uso **R**, **Python**, **Stata**, **EViews** e **LaTeX** para transformar dados em decisões mais inteligentes.  
 Busco sempre aprender, colaborar e aplicar a lógica econômica em problemas reais.
 
