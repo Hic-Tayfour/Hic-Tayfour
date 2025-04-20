@@ -21,28 +21,25 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 </details>
 
-## 🛠️ Tecnologias que Utilizo:
+### 🧠 Linguagens e Ferramentas
 
-### Linguagens e Ferramentas:
+| Python | R | Stata | EViews |
+|--------|---|-------|--------|
+| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) | ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/Stata-%230072c6.svg?style=for-the-badge&logoColor=white) | ![EViews](https://img.shields.io/badge/EViews-%23007DB8.svg?style=for-the-badge&logoColor=white) |
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-%230072c6.svg?style=for-the-badge&logoColor=white)
-![EViews](https://img.shields.io/badge/EViews-%23007DB8.svg?style=for-the-badge&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-%2300599C.svg?style=for-the-badge&logo=quarto&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+| LaTeX | Quarto | Markdown | RMarkdown |
+|-------|--------|----------|-----------|
+| ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | ![Quarto](https://img.shields.io/badge/Quarto-%2300599C.svg?style=for-the-badge&logo=quarto&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | ![RMarkdown](https://img.shields.io/badge/RMarkdown-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
 
-### Ferramentas Adicionais:
+### 🛠️ Ferramentas de Desenvolvimento
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-%234675A9.svg?style=for-the-badge&logo=rstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000)
+| Git | GitHub | RStudio | VS Code |
+|-----|--------|---------|---------|
+| ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![RStudio](https://img.shields.io/badge/RStudio-%234675A9.svg?style=for-the-badge&logo=rstudio&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-
+| Overleaf | Notepad++ | Positron | &nbsp; |
+|----------|-----------|----------|--------|
+| ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white) | ![Notepad++](https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000) | ![Positron](https://img.shields.io/badge/Positron-%23276DC3.svg?style=for-the-badge&logo=posit&logoColor=white) | &nbsp; |
 
 
 ## 🌟 Gráfico de Atividades no GitHub:
@@ -55,14 +52,6 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hic_Tayfour)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hichamt@al.insper.edu.br)
 [![Website](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hic-tayfour.github.io)
-
-## 🎮 Contribuições em Animação:
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hic-Tayfour/Hic-Tayfour/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 🌐 Estrutura dos Meus Repositórios
 
