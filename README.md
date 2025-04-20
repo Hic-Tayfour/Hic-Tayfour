@@ -41,11 +41,6 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 |----------|-----------|----------|--------|
 | ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white) | ![Notepad++](https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000) | ![Positron](https://img.shields.io/badge/Positron-%23276DC3.svg?style=for-the-badge&logo=posit&logoColor=white) | &nbsp; |
 
-
-## 🌟 Gráfico de Atividades no GitHub:
-
-[![Hicham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hic-Tayfour&bg_color=0d1117&color=ffffff&line=5468FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🔗 Como Me Encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-tayfour-71275b228/)
