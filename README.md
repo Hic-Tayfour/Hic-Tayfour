@@ -15,7 +15,6 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hic-Tayfour&show_icons=true&theme=algolia&hide_border=true" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hic-Tayfour&layout=compact&theme=algolia&hide_border=true" height="200px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hic-Tayfour&theme=algolia&hide_border=true" height="200px">
 </p>
 
