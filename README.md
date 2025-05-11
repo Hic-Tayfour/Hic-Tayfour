@@ -59,6 +59,7 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 ├── 📊 [**R**](https://github.com/Hic-Tayfour/R) – Scripts, modelos e dashboards em R  
 ├── 🐍 [**Python**](https://github.com/Hic-Tayfour/Python) – Machine Learning, Análise de Dados  
 ├── 📄 [**LaTeX**](https://github.com/Hic-Tayfour/LaTex-OverLeaf) – Templates, artigos e relatórios acadêmicos  
+├── 📦 [*DataLake*](https://github.com/Hic-Tayfour/DataBase-Repo) - Armazenamento de dados econômicos tratados para trabalhos
 └── 🧠 [**MyKaggle**](https://github.com/Hic-Tayfour/MyKaggle) – Competências em ciência de dados aplicadas
 
 ---
