@@ -21,6 +21,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Space Shooter GIF
+        # Using @v1 to get automatic patch updates
+        # For reproducible builds, consider pinning to a specific commit hash
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
