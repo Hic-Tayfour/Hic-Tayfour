@@ -13,8 +13,9 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 ## 📊 Minhas Estatísticas no GitHub
 
-
 <img align="right" alt="Coding" width="1080" src="Hic-Tayfour-space-shooter.gif" />
+
+> 🎮 _Este GIF é gerado automaticamente diariamente a partir do meu gráfico de contribuições. [Veja como funciona →](docs/gif-generation.md)_
 
 
 ---
