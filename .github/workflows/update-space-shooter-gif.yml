@@ -28,7 +28,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'Hic-Tayfour-space-shooter.gif'
           strategy: 'random'
-          fps: '60'
+          fps: '180'
           commit-message: 'Update Hic-Tayfour-space-shooter.gif'
 
       - name: Verify GIF was generated
