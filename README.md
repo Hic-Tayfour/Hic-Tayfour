@@ -13,7 +13,8 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<img align="right" alt="Coding" width="420" src="Hic-Tayfour-space-shooter.gif" />
+
+<img align="right" alt="Coding" width="1080" src="Hic-Tayfour-space-shooter.gif" />
 
 
 ---
