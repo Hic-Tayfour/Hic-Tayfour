@@ -4,7 +4,7 @@ on:
   # Run daily at midnight UTC
   schedule:
     - cron: '0 0 * * *'
-  
+
   # Allow manual trigger
   workflow_dispatch:
 
@@ -15,11 +15,11 @@ jobs:
   update-gif:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
@@ -28,7 +28,7 @@ jobs:
           strategy: 'random'
           fps: '15'
           commit-message: 'Update Hic-Tayfour-space-shooter.gif'
-      
+
       - name: Verify GIF was generated
         run: |
           if [ ! -f "Hic-Tayfour-space-shooter.gif" ]; then
