@@ -13,6 +13,19 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 ## 📊 Minhas Estatísticas no GitHub
 
+<details open>
+<summary><strong>🎮 GitHub Space Shooter</strong></summary>
+
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter" width="900" />
+</p>
+
+<p align="center">
+  <em>Gerado com <a href="https://github.com/czl9707/gh-space-shooter">czl9707/gh-space-shooter</a></em>
+</p>
+
+</details>
+
 <details>
 <summary><strong>📈 Clique aqui para ver minhas estatísticas no GitHub</strong></summary>
 
