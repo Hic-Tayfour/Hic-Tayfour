@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="420" src="gitreadme.gif" />
 
 Estudante de **Economia** apaixonado por dados, modelagem estatística e soluções quantitativas aplicadas.  
-Tenho interesse em **Machine Learning**, **Data Science**, **Macroeconomia** e **Economia da Saúde**.  
-Uso **R**, **Python**, **Stata**, **EViews** e **LaTeX** para transformar dados em decisões mais inteligentes.  
+Tenho interesse em **Statistical/Machine Learning**, **Data Science**, **Estatística** e **Matemática**.  
+Uso **R**, **Python** e **LaTeX** para transformar dados em decisões mais inteligentes.  
 Busco sempre aprender, colaborar e aplicar a lógica econômica em problemas reais.
 
 Sinta-se à vontade para explorar meus repositórios e contribuir!
@@ -24,9 +24,9 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 
 ### 📦 Tecnologias
 
-| Python | R | Stata | EViews |
-|--------|---|-------|--------|
-| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) | ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/Stata-%230072c6.svg?style=for-the-badge&logoColor=white) | ![EViews](https://img.shields.io/badge/EViews-%23007DB8.svg?style=for-the-badge&logoColor=white) |
+| Python | R | 
+|--------|---|
+| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) | ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
 
 ### 📄 Escrita e Relatórios
 
