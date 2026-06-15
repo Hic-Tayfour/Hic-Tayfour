@@ -53,9 +53,7 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 📁 **GitHub do Hicham**  
 ├── 📊 [**R**](https://github.com/Hic-Tayfour/R) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre R no RStudio e suas funcionalidades.  
 ├── 🐍 [**Python**](https://github.com/Hic-Tayfour/Python) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre Python no VSCode e suas funcionalidades.  
-├── 📄 [**LaTeX**](https://github.com/Hic-Tayfour/LaTex-OverLeaf) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre LaTeX no Overleaf e suas funcionalidades.  
-├── 📦 [**DataLake**](https://github.com/Hic-Tayfour/DataBase-Repo) – Este repositório foi criado para armazenar e organizar bases de dados econômicos de diversas naturezas.  
-└── 🧠 [**MyKaggle**](https://github.com/Hic-Tayfour/MyKaggle) – Repositório dos meus scripts, incluindo competições e estudos feitos no Kaggle.
+└── 📄 [**LaTeX**](https://github.com/Hic-Tayfour/LaTex-OverLeaf) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre LaTeX no Overleaf e suas funcionalidades.  
 
 
 ---
