@@ -40,29 +40,8 @@ Sinta-se à vontade para explorar meus repositórios e contribuir!
 |-----|--------|---------|---------|
 | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![RStudio](https://img.shields.io/badge/RStudio-%234675A9.svg?style=for-the-badge&logo=rstudio&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-| Overleaf | Notepad++ | Positron |
-|----------|-----------|----------|
-| ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white) | ![Notepad++](https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000) | ![Positron](https://img.shields.io/badge/Positron-%23276DC3.svg?style=for-the-badge&logo=posit&logoColor=white) |
-
----
-
-## 🌐 Estrutura dos Meus Repositórios
-
-### 🔍 Visão Geral
-
-📁 **GitHub do Hicham**  
-├── 📊 [**R**](https://github.com/Hic-Tayfour/R) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre R no RStudio e suas funcionalidades.  
-├── 🐍 [**Python**](https://github.com/Hic-Tayfour/Python) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre Python no VSCode e suas funcionalidades.  
-└── 📄 [**LaTeX**](https://github.com/Hic-Tayfour/LaTex-OverLeaf) – Repositório dos meus scripts, incluindo trabalhos acadêmicos e estudos sobre LaTeX no Overleaf e suas funcionalidades.  
-
-
----
-
-## 🔗 Como Me Encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-tayfour-71275b228/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hic_Tayfour)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hichamt@al.insper.edu.br)  
-[![Website](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hic-tayfour.github.io)
+| Overleaf | Notepad++ | TeXstudio |
+|----------|-----------|-----------|
+| ![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white) | ![Notepad++](https://img.shields.io/badge/Notepad++-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000) | ![TeXstudio](https://img.shields.io/badge/TeXstudio-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) |
 
 ---
