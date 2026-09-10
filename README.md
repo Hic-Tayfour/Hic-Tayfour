@@ -2,10 +2,6 @@
 
 <img align="right" alt="Coding" width="420" src="gitreadme.gif" />
 
-# 👋 Olá, eu sou Hicham Tayfour!
-
-<img align="right" alt="Coding" width="420" src="gitreadme.gif" />
-
 Estudante de **Economia** apaixonado por dados, modelagem estatística e soluções quantitativas aplicadas.  
 Tenho interesse em **Machine Learning**, **Data Science**, **Macroeconomia** e **Economia da Saúde**.  
 Uso **R**, **Python**, **Stata**, **EViews** e **LaTeX** para transformar dados em decisões mais inteligentes.  
