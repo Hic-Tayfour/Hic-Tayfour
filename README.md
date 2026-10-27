@@ -55,7 +55,6 @@ Sinta-se à vontade para explorar meus repositórios!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-tayfour-71275b228/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hic_Tayfour)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hichamt@al.insper.edu.br)  
-[![Website](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hic-tayfour.github.io)
 
 ---
 
